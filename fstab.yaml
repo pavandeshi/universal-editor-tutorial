@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p9652-e115365.adobeaemcloud.com/bin/franklin.delivery/pavandeshi/universal-editor-tutorial/main"
+    url: "https://author-p153710-e1614654.adobeaemcloud.com/bin/franklin.delivery/pavandeshi/universal-editor-tutorial/main"
     type: "markup"
     suffix: ".html"
